@@ -16,7 +16,7 @@ Supported Node versions due OS are v16.13.*
 ### Bidding Bot
 After node is installed, run `npm install`
 ## Configuration
-Copy **.env.dist** and add missing values
+Copy **.env.example** and add missing values
 
 **PROVIDER**: your rpc provider url, such as moralis.io, infura.io etc.
 
